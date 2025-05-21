@@ -22,6 +22,8 @@ List of abbreviations
 	  - Digital Use Conditions
 	* - EJP RD	
 	  - European Joint Programme on Rare Diseases
+	* - ERDERA
+	  - European Rare Disease Research Alliance
 	* - ERN	
 	  - European Reference Network
 	* - FAIR
