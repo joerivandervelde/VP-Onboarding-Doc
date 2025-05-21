@@ -1,4 +1,4 @@
-For whom is the EJP RD Virtual Platform intended? 
+For whom is the ERDERA Virtual Platform intended?
 ------------
 
 Onboarding resources to the VP benefits data resource managers by making their data reusable for rare disease research as well as data users like rare diseases researchers, clinicians, etc, who will have more data available for their analyses. The VP is designed to meet the needs of diverse stakeholders, each with specific objectives related to accessing and processing (meta)data.

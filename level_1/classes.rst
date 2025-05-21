@@ -16,7 +16,7 @@ Mandatory Classes
 	  - Definition and usage note
 	  - URI
 	* - `Organisation <properties/organization.html>`_
-	  - To add resources to the EJP RD Virtual Platform the organisations that provide the resources need to be registered first. For each organisation, the biobanks, patient registries, guidelines, datasets (which may have associated data services) or data services (with no specific dataset), provided by the organisation, need to be added.
+	  - To add resources to the ERDERA Virtual Platform the organisations that provide the resources need to be registered first. For each organisation, the biobanks, patient registries, guidelines, datasets (which may have associated data services) or data services (with no specific dataset), provided by the organisation, need to be added.
 	  - foaf:Organisation
 	* - "*Resource*"
 	  - "*Resource is a generic concept from the DCAT2 vocabulary. In our metadata model, we extended it with Rare Disease specific concepts like Biobank and Patient registry, which means that you rarely use this class directly, but indirectly through its extensions. We recommend that you avoid using dcat:Resource directly for your document unless the type that you are looking for is not available in this table (not a Biobank, Patient Registry, Dataset, Data Service, or Guideline). At least one of the resource types described in this table is Mandatory.*"

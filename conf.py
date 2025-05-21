@@ -19,10 +19,10 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'EJP RD Onboarding Document'
-copyright = '2024, EJP RD'
-author = 'EJP RD, EJP RD FAIRification Stewards'
-#code by C. Bernabe
+project = 'ERDERA Virtual Platform Onboarding Document'
+copyright = '2025, ERDERA'
+author = 'ERDERA, ERDERA FAIRification and VP onboarding teams'
+#original code by C. Bernabe in EJP-RD, further developed in ERDERA
 
 # The short X.Y version
 version = ''
@@ -79,7 +79,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-html_logo ='_static/ejprd.png'
+html_logo ='_static/erdera-logo-small.png'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -113,7 +113,7 @@ html_js_files = [
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'EJP RD VP Onboarding Document'
+htmlhelp_basename = 'ERDERA VP Onboarding Document'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -140,7 +140,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OnboardingDocument.tex', 'EJP RD VP Onboarding Documentation',
+    (master_doc, 'OnboardingDocument.tex', 'ERDERA VP Onboarding Documentation',
      'EJP RD', 'manual'),
 ]
 
@@ -150,7 +150,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'ejprdonboarding', 'EJP RD VP Onboarding Documentation',
+    (master_doc, 'ejprdonboarding', 'ERDERA VP Onboarding Documentation',
      [author], 1)
 ]
 
@@ -161,7 +161,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ejprdonboarding', 'EJP RD VP Onboarding Documentation',
+    (master_doc, 'ejprdonboarding', 'ERDERA VP Onboarding Documentation',
      author, 'ejprdonboarding', 'One line description of project.',
      'Miscellaneous'),
 ]

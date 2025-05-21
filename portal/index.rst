@@ -1,4 +1,4 @@
-The EJP RD VP reference implementation: VP Portal
+The ERDERA VP reference implementation: VP Portal
 ===================================
 
 The Virtual Platform Portal (VP Portal) is a component developed within the EJP RD to allow researchers, patients or any person who is interested in the field of rare disease to search for resources within the VP network at once in real time. It can be accessed via `this link <https://vp.ejprarediseases.org>`_.

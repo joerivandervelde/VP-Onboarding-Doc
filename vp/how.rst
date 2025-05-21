@@ -1,4 +1,4 @@
-How to connect to the EJP RD VP?
+How to connect to the ERDERA VP?
 ------------
 
 Resources can connect to the VP at different levels. Depending on the level of connection chosen, the VP enables rare disease resources to have their metadata and/or data Findable, Accessible, Interoperable and Reusable (FAIR). Regardless of the level of connection, resources retain full control of their metadata/data by specifying who can access their resources and under which conditions. 
