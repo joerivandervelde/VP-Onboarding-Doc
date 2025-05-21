@@ -160,3 +160,6 @@ cython_debug/
 
 # Build folder
 _build
+
+# Mac OSX
+.DS_Store
