@@ -29,8 +29,7 @@ html_context = {
   'display_github': True,
   'github_user': 'joerivandervelde', # Replace with ERDERA once moved
   'github_repo': 'VP-Onboarding-Doc',
-  'github_version': 'main',
-  'conf_py_path'  : '/',
+  'github_version': 'main/',
 }
 
 # The short X.Y version
