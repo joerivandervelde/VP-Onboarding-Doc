@@ -1,5 +1,5 @@
 Beacon4Biobanks for Level 2 onboarding
-------------
+--------------------------------------
 
 `Beacon4Biobanks <https://github.com/crs4/Beacon4Biobanks/tree/bbmri_backends>`_ is a service that implements the EJP-RD VP API specs to query for /individuals and /biosamples endpoints for a biobank.
 It can be adopted by biobanks that are part of the `Sample Locator <https://samplelocator.bbmri.de/>`_, one of the solutions provided to participate in the `BBMRI Federated Platform <https://www.bbmri-eric.eu/federated-platform/>`_. The following figure shows a schema of how Beacon4Biobanks is integrated with the other services.

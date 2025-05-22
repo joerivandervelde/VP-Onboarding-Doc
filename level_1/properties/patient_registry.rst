@@ -1,5 +1,5 @@
 Patient Registries
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 **Mandatory Properties**
 

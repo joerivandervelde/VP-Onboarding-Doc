@@ -1,5 +1,5 @@
 Level 1: Resource Discovery
-===================================
+===========================
 
 .. Requirements to achieve level 1
 .. ------------

@@ -1,5 +1,5 @@
 EJP RD Metadata Schema Properties
-------------
+---------------------------------
 
 .. toctree::
    :maxdepth: 1

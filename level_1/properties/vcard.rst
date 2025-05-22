@@ -1,5 +1,5 @@
 Contact Point (vCard)
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 **Mandatory Properties**
 

@@ -1,5 +1,5 @@
 Three Levels of Connectivity
-------------
+----------------------------
 
 `Level 1: Resource Discovery <https://vp-onboarding-doc.readthedocs.io/en/latest/level_1/index.html>`_
 

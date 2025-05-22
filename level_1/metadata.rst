@@ -1,5 +1,5 @@
 EJP RD Metadata Schema 
-===================================
+======================
 
 Figure 5 describes the EJP RD VP metadata schema using the UML language. We describe the model and 
 its components in the next subsection. Readers can get more information here on the `UML syntax <https://www.omg.org/spec/UML/>`_.

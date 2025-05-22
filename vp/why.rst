@@ -1,5 +1,5 @@
 Why connect to the ERDERA VP?
-------------
+-----------------------------
 
 By connecting to the ERDERA Virtual Platform, a resource joins a network of data sources that enables them to be semantically interoperable and to be accessible as detailed in the previous section.  It additionally allows the resource to interact and cross-query their metadata and/or data with other resources of relevance within the network.
 
