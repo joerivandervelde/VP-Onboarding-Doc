@@ -13,6 +13,9 @@
 #
 # 3) Open the result:
 #  open _build/html/index.html
+#
+# One liner to clean, build and open:
+# rm -rf _build ; ./make.sh html ; open _build/html/index.html
 
 # Switch to the directory that contains this script (like Windows pushd %~dp0)
 pushd "$(dirname "$0")" >/dev/null || {
