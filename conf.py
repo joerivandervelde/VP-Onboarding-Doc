@@ -24,6 +24,14 @@ copyright = '2025, ERDERA'
 author = 'ERDERA, ERDERA FAIRification and VP onboarding teams'
 #original code by C. Bernabe in EJP-RD, further developed in ERDERA
 
+# Add context to enable the 'Edit on GitHub' button
+html_context = {
+  'display_github': True,
+  'github_user': 'joerivandervelde', # Replace with ERDERA once moved
+  'github_repo': 'VP-Onboarding-Doc',
+  'github_version': 'main',
+}
+
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
